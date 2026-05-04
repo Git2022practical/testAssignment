@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="190e9786-5db1-44ab-afde-3b39c1f32cbb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3Cq7b7jH7BIZkKb6waoeEG9ybNg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/it221/practical/testAssignment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\it221\\practical\\testAssignment\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\it221\\practical\\testAssignment\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-WS-261.22158.274" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="190e9786-5db1-44ab-afde-3b39c1f32cbb" name="Changes" comment="" />
+      <created>1777101316616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777101316616</updated>
+      <workItem from="1777101324773" duration="13316000" />
+      <workItem from="1777121331786" duration="12212000" />
+      <workItem from="1777134673530" duration="1604000" />
+      <workItem from="1777142285755" duration="2239000" />
+      <workItem from="1777185813501" duration="2997000" />
+      <workItem from="1777205377637" duration="3220000" />
+      <workItem from="1777209438738" duration="163000" />
+      <workItem from="1777210143187" duration="98000" />
+      <workItem from="1777212241356" duration="225000" />
+      <workItem from="1777212744409" duration="726000" />
+      <workItem from="1777213892105" duration="5928000" />
+      <workItem from="1777223861065" duration="7772000" />
+      <workItem from="1777232099458" duration="2302000" />
+      <workItem from="1777234525757" duration="356000" />
+      <workItem from="1777271886008" duration="5702000" />
+      <workItem from="1777282697164" duration="21448000" />
+      <workItem from="1777313371263" duration="5025000" />
+      <workItem from="1777318450113" duration="126000" />
+      <workItem from="1777319572573" duration="56000" />
+      <workItem from="1777319666495" duration="381000" />
+      <workItem from="1777320170652" duration="1162000" />
+      <workItem from="1777356325143" duration="16490000" />
+      <workItem from="1777377635888" duration="4119000" />
+      <workItem from="1777381830548" duration="215000" />
+      <workItem from="1777382212647" duration="57000" />
+      <workItem from="1777382579017" duration="8260000" />
+      <workItem from="1777392702536" duration="267000" />
+      <workItem from="1777405224844" duration="2143000" />
+      <workItem from="1777441502566" duration="1542000" />
+      <workItem from="1777541301106" duration="1788000" />
+      <workItem from="1777543279747" duration="581000" />
+      <workItem from="1777544577495" duration="163000" />
+      <workItem from="1777710227324" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
